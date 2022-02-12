@@ -1,3 +1,5 @@
 my name is nischal.
 
-nischal guruwacharya is a good guy.
+nischal guruwacharya is a good guy. this is the way in our main repository.
+
+
